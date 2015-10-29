@@ -1,7 +1,7 @@
 package aplcaciondelconceptoclaseabstracta;
 
 
-public class Monitor extends AbstractaProducto{
+public class Scanner extends Abstracta{
 
     String nombre;
     String fabricante;
